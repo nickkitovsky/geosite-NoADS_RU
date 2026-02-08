@@ -32,7 +32,7 @@ jobs:
           cp ./data/raw_noads-ru.txt ./generator/data/noads-ru
           cd generator
           go run ./ --datapath=./data
-          mv dlc.dat ../data/geosite.dat
+          mv dlc.dat ../geosite.dat
 
       - name: Generate Tag Name
         id: tag
@@ -42,6 +42,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ./data/raw_noads-ru.txt ./data/geosite.dat
+          git add ./data/raw_noads-ru.txt ./geosite.dat
           git commit -m "Update ads list: $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
