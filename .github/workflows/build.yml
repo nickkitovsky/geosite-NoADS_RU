@@ -1,0 +1,47 @@
+name: Remote Build Geosite
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v4
+
+      - name: Download and Parse Remote List
+        run: |
+          mkdir -p ./data
+          curl -sSL "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/hosts/blocker.txt" -o remote_raw.txt          
+          grep "^0\.0\.0\.0" remote_raw.txt | sed 's/^0\.0\.0\.0 //g' | tr -d '\r' > ./data/raw_noads-ru.txt
+          echo "Parsed $(wc -l < ./data/noads-ru) domains"
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '>=1.21'
+
+      - name: Build dat file
+        run: |
+          git clone https://github.com/v2fly/domain-list-community.git generator
+          cp ./data/raw_noads-ru.txt ./generator/data/noads-ru
+          cd generator
+          go run ./ --datapath=./data
+          mv dlc.dat ../data/geosite.dat
+
+      - name: Generate Tag Name
+        id: tag
+        run: echo "tag_name=$(date +%Y%m%d%H%M)" >> $GITHUB_OUTPUT
+
+      - name: Commit Parsed List (Optional)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./data/raw_noads-ru.txt ./data/geosite.dat
+          git commit -m "Update ads list: $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
