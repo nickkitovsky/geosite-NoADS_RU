@@ -3395,7 +3395,7 @@ o.pki.goog
 cnwww.entrust.cn
 cnwww.microsoft.com
 cn
-¬ 
+ì 
 CATEGORY-CDN-!CNaccdn.com.cn
 cnak1.net
 aka-ai.com
@@ -3420,7 +3420,7 @@ akamii.com
 akamqi.comakastream.comakastream.net
 akatns.netakcdn.com.cn
 cn	akstat.io	aptdn.net
-cnargotunnel.com	b-cdn.netbrowser.run	bunny.netbunnycdn.com	cdn77.com	cdn77.orgcf-china.info
+cnargotunnel.com	b-cdn.netbrowser.run	bunny.netbunnycdn.com	cdn77.com	cdn77.org	cdnjs.comcf-china.info
 cncf-ipfs.com	cf-ns.com
 cn	cf-ns.net
 cn
@@ -3446,11 +3446,11 @@ cftest6.cn
 cncloudflareregistrar.comcloudflareresearch.comcloudflareresolve.comcloudflaressl.com!cloudflarestaging.com
 cncloudflarestatus.comcloudflarestorage.com#cloudflarestoragegw.com
 cncloudflarestream.comcloudflaresupport.comcloudflaretest.comcloudflarewarp.comcloudflareworkers.comdelvenetworks.comedgekey.netedgekey88.net
-cnedgesuite.netencryptedsni.comevery1dns.netfastly-edge.comfastly-terrarium.com
+cnedgesuite.netencryptedsni.comesm.runevery1dns.netfastly-edge.comfastly-terrarium.com
 fastly.com	fastly.io
 fastly.netfastlylabs.comfastlylb.netfoundationdns.comfoundationdns.netfoundationdns.orgiamakamai.comiamakamai.netimagedelivery.net	imgix.com	imgix.netisbgpsafeyet.comjanrain.biz
 cnjanrainservices.com
-cnlimelight.com	lldns.netllnw-trials.comllnw.comllnw.net	llnwd.net	llnwi.netone.one.onepacloudflare.compagecdn.com
+cnjsdelivr.comjsdelivr.netlimelight.com	lldns.netllnw-trials.comllnw.comllnw.net	llnwd.net	llnwi.netone.one.onepacloudflare.compagecdn.com
 pagecdn.io	pages.devquantil.com
 r2.devskycdn.com.cn
 cnsoasta-dswb.com
@@ -5055,7 +5055,7 @@ pgafan.netpoint2this.com
 pointto.us privatizehealthinsurance.netquicksytes.comread-books.orgredirectme.netsecuritytactics.comservebeer.comserveblog.netservecounterstrike.comserveexchange.comserveftp.comservegame.comservehalflife.comservehttp.comservehumour.comserveirc.comserveminecraft.netservemp3.comservep2p.comservepics.comservequake.comservesarcasm.comsslip.iostufftoread.com	sytes.nettheworkpc.com
 traefik.me
 ufcfan.orgunusualperson.comviewdns.net	webhop.mewebredirect.orgworkisboring.com	zapto.org
-ôX
+´X
 CATEGORY-DEV
 01.orgaccountkit.com
 acpica.comadaptivecards.ioadventofcode.comalpinelinux.orgamp.devampproject.comampproject.netampproject.organaconda.cloudanaconda.comanaconda.organdroidandroid.comandroidify.com
@@ -5065,7 +5065,7 @@ azurecr.io
 badgen.netbintray.combitvise.com
 blazor.netblob.core.windows.netblogoverflow.combootstrapcdn.combotframework.combotorch.orgbraventures.combraveux.combrew.sh
 buck.buildbuckbuild.comcalendarserver.orgcanonical.comcarekit.orgcdn.jetbrains.com
-cn	cdnjs.com
+cn
 centos.orgchocolatey.orgclearlinux.orgclojure.org
 cnpmjs.orgcodeberg.orgcodeberg.pagecodeforaliving.iocodethemicrobit.com!collector.github.com
 ads
@@ -5079,7 +5079,7 @@ docker.com	docker.iodockerstatic.comdocs.rsdot.net
 dotdeb.org)download-cdn.jetbrains.com.cn
 cndraftjs.orgecr.awselectronjs.orgelixir-lang.org
 elrepo.orgembed.lyembedly.com
-erlang.orgesm.run
+erlang.org
 f8.comfacebookappcenter.infofacebookappcenter.netfacebookappcenter.orgfacebookconnect.comfacebookdevelopergarage.comfaciometrics.comfastlane.cifastlane.toolsfasttext.ccfbf8.comfbinfer.comfblitho.comfbredex.com
 fbrell.comfedoraforum.orgfedoramagazine.orgfedorapeople.orgfedoraproject.org
 ffmpeg.orgfightforux.comfirebase.comfirebase.iofirebaseapp.comfirebaseio.comflathub.orgflatpak.orgflow.devflow.orgflowtype.orgflutter.devflutterapp.comfontawesome.comfortawesome.comforthebadge.comfoundationdb.org
@@ -5102,7 +5102,7 @@ hexdocs.pmhhvm.comhyperscan.ioiads.unity3d.com
 ius.iojavajava.comjava.net	jb.gg
 jenkins.iojetbrains.aijetbrains.cloudjetbrains.comjetbrains.netjetbrains.spacejetbrains.team	jfrog.com	jfrog.org
 jquery.comjquerymobile.comjqueryui.com
-js.orgjsdelivr.comjsdelivr.netjupyter.org
+js.orgjupyter.org
 jwt.ms
 k8s.iokali.org
 kernel.orgkotlinlang.orgkubernetes.iolaunchpad.netlaunchpadcontent.netlaunchpadlibrarian.comlaunchpadlibrarian.netlaunchpadlibrarian.orglede-project.orglfai.foundation	linux.orglinuxfoundation.orglinuxfromscratch.orglinuxmint.comlua.orgmacosforge.orgmacports.orgmacruby.commacruby.netmacruby.orgmakeitopen.commariadb.orgmathoverflow.netmcr.microsoft.commcrouter.netmcrouter.orgmessengerdevelopers.commetacpan.orgmicrobit.orgmicrosoftadc.commicrosoftgamestack.commicrosoftiotinsiderlabs.commicrosoftreactor.cn
@@ -5167,9 +5167,11 @@ tracup.com
 u3d.cnubuntukylin.comuniontech.cnuniontech.comunity.cnunityads.unity.cn
 ads#unityads.unitychina.cn
 adsunitychina.cnwegamedeveloper.comweixinbridge.comweui.ioxitu.iop1-juejin.byteimg.comp2-juejin.byteimg.comp3-juejin.byteimg.comp4-juejin.byteimg.comp5-juejin.byteimg.comp6-juejin.byteimg.comp7-juejin.byteimg.comp8-juejin.byteimg.comp9-juejin.byteimg.com
-E
-CATEGORY-DOCUMENTS-CN	doc88.com	docin.com
-douding.cn
+è
+CATEGORY-DOCUMENTS-CN1ppt.com
+360doc.com	52ppt.com	badou.combook118.com	doc88.com	docin.com
+douding.cnhaohaodoc.com
+lazyer.netrenrendoc.comwenkeju.com	ypppt.com
 µ
 CATEGORY-DOHada.openbld.netadblock.dns.mullvad.netall.dns.mullvad.netantivirus.bebasid.comanycast.dns.nextdns.ioau-syd.doh.sbbase.dns.mullvad.netbasic.rethinkdns.comca-yyz.doh.sbchild-noads.joindns4.euchild.joindns4.eucloudflare-dns.comcommon.dot.dns.yandex.net dandelionsprout.asuscomm.comde-ber.doh.sbde-dus.doh.sbde-fra.doh.sbdns-doh.dnsforfamily.comdns.adguard-dns.comdns.adguard.comdns.alidns.comdns.arapurayil.comdns.bebasid.comdns.caliph.devdns.cfiec.netdns.cloudflare.comdns.comss.onedns.de.futuredns.eu.orgdns.decloudus.com dns.digitale-gesellschaft.chdns.dnswarden.com
 dns.googledns.jupitrdns.comdns.marbledfennec.netdns.mullvad.netdns.nextdns.iodns.oszx.codns.pubdns.pumplex.comdns.quad9.netdns.rabbitdns.org
@@ -8105,7 +8107,7 @@ cmbuat.com	cmburl.cn cmbwinglungbank.com
 !cncmf.bizcmf.ltdcmfchina.com
 cmfunds.cn
 joying.comtest-cignacmb.com
-ò½
+ö¾
 CN	00cdn.com0123456789.com0379home.com
 055110.com	05sun.com0759job.com
 100.me	10010.com	100bt.com100offer.com	10155.com	11467.com114blog.com
@@ -8128,7 +8130,7 @@ joying.comtest-cignacmb.com
 123pan.com123panpay.com123u.com126.com126.link126.net127.com127.net139.com13a.com163.com1637.com163cn.tv163industry.com163jiasu.com163mail.com163qiyukf.com
 163yun.com166.com166.net1688.com	16888.com	169ol.com16rd.com	17173.com
 172mix.com178.com178linux.com	17989.com	17cdn.com17house.com17k.com
-17roco.com17u.net17usoft.com17usoft.net17zuoye.com17zuoye.net	18183.com188.com1905.com	19yxw.com1huizhan.com1nongjing.com	1ting.com1zhe.com21cn.com21jingji.com2265.com2288.org2345.com258.com25pp.com263.net289.com2cto.com
+17roco.com17u.net17usoft.com17usoft.net17zuoye.com17zuoye.net	18183.com188.com1905.com	19yxw.com1huizhan.com1nongjing.com1ppt.com	1ting.com1zhe.com21cn.com21jingji.com2265.com2288.org2345.com258.com25pp.com263.net289.com2cto.com
 2dfire.com3000.com	300hu.com
 310win.com
 315che.com315dian.com321fenx.com3234.com32r.com3304399.com3304399.net3322.org3387.com33lc.com3454.com3456.cc
@@ -8154,7 +8156,7 @@ joying.comtest-cignacmb.com
 51.com
 510you.com517lppz.com	51ccd.com	51cdn.com51changxie.com51credit.com	51cto.com	51dzt.com51eshop.com51gaifang.com51hejia.com51jingying.com	51job.com51jobcdn.com	51kim.com51meishu.com	51nod.com51selling.com
 51sole.com51togic.com51wendang.com	51yes.com	51zmt.top5253.com	52hxw.com
-52miji.com52pk.com52z.com53kf.com
+52miji.com52pk.com	52ppt.com52z.com53kf.com
 55.com
 5566ua.com5577.com	55bbs.com
 56.com	56che.com56laile.com
@@ -8351,7 +8353,7 @@ awsapps.cn
 cn
 b23.tv	b2bgo.com
 b2byao.com	b3log.orgb3logfile.combabytree.combabytreeimg.com#badjs.weixinbridge.com
-adsbaichuan-ai.com$baichuan-sdk.alicdn.com
+ads	badou.combaichuan-ai.com$baichuan-sdk.alicdn.com
 adsbaicizhan.combaicizhan.org	baidubaidu-cdn.combaidu-cdn.net	baidu.combaiduapp.combaidubce.combaidubcr.combaiducontent.combaidufree.combaidupan.combaidupcs.combaidustatic.combaiduyuncdn.combaiduyuncdn.net
 baifae.com#baifen.music.baidu.com
 adsbaifendian.combaifubao.com	baihe.combaijiayun.com	baike.combaikevod.combaimiao.techbaimiaoapp.combaishinetwork.combaitiao.combaixing.combaixing.netbaltamatica.combaltamatica.netbambulab.combamenzhushou.combangongziyuan.combank-of-china.combankcomm.combankofchina.combanmaaike.combaofeng.combaofeng.netbaomitu.combaoxianshichang.combaseopendev.combattlecare.net	baydn.com	bazai.combbbcdns.com	bblmw.combce-cdn.combce-cdn.net
@@ -8374,7 +8376,7 @@ bio360.net	bio4p.combiodiscover.combishijie.combitauto.co
 bkapps.combkclouds.ccbktencent.comblackdragon.com	blmpb.comblogjava.netbluepoch.comblurdev.com	blyun.com
 bobbns.combobo.combocamchina.combocaviation.com	boccfc.ccbocfullertonbank.com	bocgi.combocgins.combocichina.combocifunds.combocigroup.com	bocim.comboe.combohejiasuqi.combojianger.com
 bokecc.com
-boohee.com	boosj.combootcdn.netbootcss.com
+boohee.combook118.com	boosj.combootcdn.netbootcss.com
 bosera.combosszhipin.combouffalolab.comboxdouyin.com
 bplslb.com	bpltm.com	bsbsb.topbsurl.ccbtgtravel.combthhotels.com	btime.combtrace.qq.com
 adsbugly.qq.com
@@ -8674,7 +8676,7 @@ hacpai.comhaidilao.comhaidubooks.com	haier.com	haier.net
 halvie.comhanboshi.comhandanjob.comhangjiayun.comhangzhouyq.com	hanyi.com
 hao123.comhao123img.com"hao123union.baidu.com
 ads
-hao222.com	haodf.comhaofenshu.comhaohaowan.net
+hao222.com	haodf.comhaofenshu.comhaohaodoc.comhaohaowan.net
 haokan.comhaolietou.com	haoso.com
 haosou.com
 haosou.net	haote.com
@@ -8852,7 +8854,8 @@ lanzov.comlaoban100.comlaomaotao.netlaomaotao.orglapin36
 larkfn.comlarkmeetings.comlarkoffice.comlarkofficeapp-boe.comlarkofficeapp-pre.comlarkofficeapp.comlarkofficeboe.comlarkofficecdn.comlarkofficeimg.comlarkofficepkg.comlarkofficepre.comlarkrooms.comlarksuite-pre.comlarksuite.comlarksuite.com.ttdns1.comlarksuite.com.ttdns2.comlarksuitecdn.comlarksuiteimg-boe.comlarksuiteimg-pre.comlarksuiteimg.com
 larkvc.comlarsonlimited.com	lascn.netlatepost.com	lawxp.com
 lawyee.org
-lazada.comlazycat.cloudlbtp.com	lckfb.comlczq.com	ld246.com	ldmnq.com
+lazada.comlazycat.cloud
+lazyer.netlbtp.com	lckfb.comlczq.com	ld246.com	ldmnq.com
 le.comleangoo.comleanote.comleautolink.comlebo.toplecloud.comlecloudapi.comledu.comleetcode-cn.com
 leigod.comleikeji.comleiniao.comleiphone.comleiting.comleju.com
 lemall.comlenauth.com
@@ -9099,7 +9102,7 @@ rdfybk.com
 rdnsdb.comreadnovel.comrealcybertron.com
 realme.comrealmebbs.comrealmemobile.comredmagic.comreke.at.sohu.com
 adsrenren-inc.com
-renren.com report.qqweb.qq.com
+renren.comrenrendoc.com report.qqweb.qq.com
 ads$report.tencentmusic.com
 adsres.hunantv.com
 adsresolve.umeng.com
@@ -9323,7 +9326,7 @@ we4399.com	weand.comweathercn.comweatherdt.comweavatar.co
 webank.comwebankcdn.netwebgame163.comwebterren.com
 wechat.com
 wegame.comwegamedeveloper.comwegameplus.com	weibo.comweibocdn.comweibopay.comweicaifu.comweidian.comweilaicaijing.comweilaiyunxiao.comweiphone.netweixinbridge.comweixing.comweiyangx.com
-weiyun.comwelltrend-edu.comwenjuan.comwenmingban.comwenshushu.comwenxiaozhan.comwenxiaozhan.netwenxin-ge.comwest95582.comweui.iowework-studio.com
+weiyun.comwelltrend-edu.comwenjuan.comwenkeju.comwenmingban.comwenshushu.comwenxiaozhan.comwenxiaozhan.netwenxin-ge.comwest95582.comweui.iowework-studio.com
 wf.pubwfdata.clubwhalecloud.com	whccb.comwhlovehome.comwicresoft.com
 win007.comwin7china.comwin8.netwin8china.comwindows10zj.comwindows7en.comwindowszj.comwinegame.netwinos.mewinwin7.comwinyoungreading.comwishdown.com
 wit.qq.com
@@ -9855,11 +9858,6 @@ dmmrex.com
 dnspod.comdnspod.com.cndnspod.mobi
 dnspod.net
 dnspod.org	dnsv2.com	dnsv3.com	dnsv4.com	dnsv5.comdoh.pubdot.pub
-
-DOC88	doc88.com
-&
-DOCIN	docin.com
-douding.cn
 Ð
 DOCKERcompose-spec.io
 docker.com	docker.iodockerstatic.comPLdocker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com*&docker-pinata-support.s3.amazonaws.com
@@ -10355,7 +10353,7 @@ garena.comgarena.live	garena.my	garena.ph	garena.sg	ga
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-šŠ
+ÃŠ
 GEOLOCATION-!CN
 01.org02weqj32.com
 04647.club0cgdklr5sfwj.com0emm.com0plkijj.vip
@@ -11269,7 +11267,7 @@ dutrai.comduyaoss.comduyaossr.comdvdstudiopro.bizdvdstud
 dw.com	dweb.linkdwg.comdwgtrueconvert.comdwgtrueview.com	dx9527.cc	dxk4h.comdxyav.codydx.exchangedyfl1.pw
 dykycl.comdynacw.co.jp
 dynacw.comdynacw.com.cndynacw.com.hkdynacw.com.twdynafleetonline.comdynamics.cn
-cndynamics.comdynamobuilds.comdynamopackages.comdynamoreach.com	dyncdn.me	dzcdn.netdzen.rudzeninfra.ru	e-bay.come-bay.it	e-bay.net	e-cba.org
+cndynamics.comdynamobuilds.comdynamopackages.comdynamoreach.comdynatrace.com	dyncdn.me	dzcdn.netdzen.rudzeninfra.ru	e-bay.come-bay.it	e-bay.net	e-cba.org
 e-goods.rue-hentai.orge-szigno.hue-tugra.com	e5.ske53w.come621.netea-anz-press.com
 ea.comeaaccess.comeablackbox.comeac-cdn.comeacashcard.comeachpay.comeachpay.neteacodigos.comeadultgames.comeafootballworld.comeakorea.co.kreamirrorsedge.comeamobile.comeamythic.comeamythic.neteanordic.com
 eaplay.comearngeek.comearphonescheapest.com
@@ -11363,7 +11361,7 @@ facboo.comfacbook.comfacbool.comfacboox.comfaccebook.com
 faceit.comfaceobk.comfaceobok.comfaceobook.comfaceook.comfacerbooik.comfacerbook.comfacesbooc.comfaceshift.cn
 cnfacesounds.comfacetime.netfacetook.comfacevbook.comfacewbook.cofacewook.comfacfacebook.comfacfebook.comfaciometrics.comfackebook.comfacnbook.comfacrbook.comfactograph.infofactwire.orgfacultyopinions.comfacvebook.comfacwebook.comfacxebook.comfadebook.com
 faebok.comfaebook.comfaebookc.comfaeboook.comfaecebok.comfaesebook.comfafacebook.comfaicbooc.comfairmarket.comfakehub.comfakeorfoto.comfakeorphoto.comfaketaxi.comfakings.com	fakku.netfaldgjalg.xyzfalundafa.orgfalundafa.org.twfalundafamuseum.orgfalungong.clubfaluninfo.netfameregistry.comfamifun.com.twfamily-sex.mefamily-simulator.iofamily.co.jpfamily.com.twfamilyds.comfamilyds.netfamilyds.orgfamilymart.com.cn
-cnfamilymart.com.myfamilymart.com.phfamilypies.netfamilyporn.tvfamilypornhd.comfamilysexsimulator.comfamilysimulator.comfamilysimulator.iofamilystrokes.comfamilyswap.xxx	famima.vnfamitsu.comfamosascalvas.comfamous-nudes.comfamousinternetgirls.com$ famousinternetgirlsgalleries.comfamousnudes.comfamouspornstars.comfanaken.comfanatical.com	fanbox.ccfandango.com
+cnfamilymart.com.myfamilymart.com.phfamilypies.netfamilyporn.tvfamilypornhd.comfamilysearch.orgfamilysexsimulator.comfamilysimulator.comfamilysimulator.iofamilystrokes.comfamilyswap.xxx	famima.vnfamitsu.comfamosascalvas.comfamous-nudes.comfamousinternetgirls.com$ famousinternetgirlsgalleries.comfamousnudes.comfamouspornstars.comfanaken.comfanatical.com	fanbox.ccfandango.com
 fandom.com
 fanfox.netfangsung.comfanhaodian.comfanhowab.buzzfank.rufanleakstoday.comfanqianglu.comfans-here.com
 fans17.com	fans66.twfansking.twfansnudes.com
@@ -13786,7 +13784,7 @@ rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-onc
 cnE9^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 cnI=^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 cnjavdb\d+\.com$
-Šë
+Žì
 GEOLOCATION-CN0033.cn	00cdn.com0123456789.com0379home.com
 055110.com	05sun.com0759job.com
 100.me	10010.com10010.com.cn10044.cn10086.cn10099.com.cn	100bt.com100offer.com	10155.com10jqka.com.cn	11467.com114blog.com
@@ -13813,7 +13811,7 @@ rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-onc
 17roco.com
 17u.cn17u.net17usoft.com17usoft.net
 17zuoye.cn17zuoye.com17zuoye.net	18.cn	18.com.cn	18183.com188.com
-189.cn1905.com	19yxw.com1hai.cn1huizhan.com1nongjing.com	1ting.com1tyy.cn1xhh.cn1zhe.com21cn.com21jingji.com2265.com2288.org2345.com258.com25pp.com263.net26r9y.cn289.com2cto.com
+189.cn1905.com	19yxw.com1hai.cn1huizhan.com1nongjing.com1ppt.com	1ting.com1tyy.cn1xhh.cn1zhe.com21cn.com21jingji.com2265.com2288.org2345.com258.com25pp.com263.net26r9y.cn289.com2cto.com
 2dfire.com2gkjr.cn3.cn3000.com	300hu.com
 310win.com
 315che.com315dian.com321fenx.com3234.com32r.com3304399.com3304399.net3322.org3387.com33lc.com3454.com3456.cc
@@ -13844,7 +13842,7 @@ rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-onc
 510you.com517lppz.com	51ccd.com	51cdn.com51changxie.com51credit.com	51cto.com	51dzt.com51eshop.com51gaifang.com51hejia.com51jianxie.cn51jingying.com	51job.com51jobcdn.com	51kim.com51meishu.com	51nod.com51selling.com
 51sole.com51togic.com51wendang.com	51yes.com	51zmt.top5253.com	52hxw.com
 52miji.com52pk.com
-52pojie.cn52z.com53kf.com
+52pojie.cn	52ppt.com52z.com53kf.com
 55.com
 5566ua.com5577.com	55bbs.com
 56.com	56che.com56laile.com576nt.cn
@@ -14052,7 +14050,7 @@ awsapps.cn
 cnazkr2.cn
 b23.tv	b2bgo.com
 b2byao.com	b3log.orgb3logfile.combabytree.combabytreeimg.com#badjs.weixinbridge.com
-adsbaichuan-ai.com$baichuan-sdk.alicdn.com
+ads	badou.combaichuan-ai.com$baichuan-sdk.alicdn.com
 adsbaicizhan.combaicizhan.org	baidubaidu-cdn.cnbaidu-cdn.combaidu-cdn.netbaidu.cn	baidu.combaidu.com.cnbaiduapp.combaidubce.combaidubcr.combaiducontent.combaidufree.combaidupan.combaidupcs.combaidustatic.combaiduyuncdn.cnbaiduyuncdn.combaiduyuncdn.net
 baifae.com#baifen.music.baidu.com
 adsbaifendian.combaifubao.com	baihe.combaijiayun.com	baike.combaikevod.combaimiao.techbaimiaoapp.combaishinetwork.combaitiao.combaixing.combaixing.net
@@ -14081,7 +14079,7 @@ bobbns.combobo.com
 boc.cnbocamchina.combocaviation.com	boccfc.cc	boccfc.cnbocfullertonbank.com	bocgi.combocgins.combocichina.cnbocichina.combocichina.com.cnbocifunds.cnbocifunds.combocifunds.com.cnbocigroup.com	bocim.combocservices.com.cnboe.com
 boe.com.cnbohejiasuqi.combojianger.com
 bokecc.com
-boohee.com	boosj.com
+boohee.combook118.com	boosj.com
 bootcdn.cnbootcdn.netbootcss.combosc.cnboscam.com.cn
 bosera.combosszhipin.com	botvip.cnbouffalolab.comboxdouyin.com
 bplslb.com	bpltm.combrawlstars.cn
@@ -14449,7 +14447,7 @@ hacpai.comhaidilao.comhaidubooks.com	haier.com	haier.net
 halvie.comhanboshi.comhandanjob.comhangjiayun.comhangzhouyq.cnhangzhouyq.com	hanyi.comhanyi.com.cn
 hao123.comhao123img.com"hao123union.baidu.com
 ads
-hao222.com	haodf.comhaofenshu.comhaohaowan.net
+hao222.com	haodf.comhaofenshu.comhaohaodoc.comhaohaowan.net
 haokan.comhaolietou.com	haoso.com
 haosou.comhaosou.com.cn
 haosou.net	haote.com
@@ -14649,7 +14647,8 @@ lanzov.comlaoban100.comlaomaotao.netlaomaotao.orglapin36
 larkfn.comlarkmeetings.cnlarkmeetings.comlarkoffice.comlarkofficeapp-boe.comlarkofficeapp-pre.comlarkofficeapp.comlarkofficeboe.comlarkofficecdn.comlarkofficeimg.comlarkofficepkg.comlarkofficepre.comlarkrooms.cnlarkrooms.comlarksuite-pre.comlarksuite.comlarksuite.com.ttdns1.comlarksuite.com.ttdns2.comlarksuitecdn.comlarksuiteimg-boe.comlarksuiteimg-pre.comlarksuiteimg.com
 larkvc.comlarsonlimited.com	las.ac.cn	lascn.netlatepost.com	lawxp.com
 lawyee.org
-lazada.comlazycat.cloudlbtp.comlceda.cn	lckfb.comlczq.com	ld246.com	ldmnq.com
+lazada.comlazycat.cloud
+lazyer.netlbtp.comlceda.cn	lckfb.comlczq.com	ld246.com	ldmnq.com
 le.comle5vb.cnleangoo.comleanote.comlearnywhere.cnlearnywhere.com.cnleautolink.comlebo.cnlebo.com.cnlebo.toplecloud.comlecloudapi.comledu.comleetcode-cn.comleetcode.cn	leigod.cn
 leigod.comleikeji.comleiniao.comleiphone.comleiting.comleju.com
 lemall.comlenauth.com	lenovo.cn
@@ -14917,7 +14916,7 @@ rdfybk.com
 rdnsdb.comreadnovel.comrealcybertron.com
 realme.comrealmebbs.comrealmemobile.comredelight.cnredmagic.comreke.at.sohu.com
 adsrenren-inc.com
-renren.com report.qqweb.qq.com
+renren.comrenrendoc.com report.qqweb.qq.com
 ads$report.tencentmusic.com
 adsres.hunantv.com
 adsresolve.umeng.com
@@ -15169,7 +15168,7 @@ we4399.com	weand.comweather.com.cnweathercn.comweatherdt.
 webank.comwebankcdn.netwebgame163.comwebmasterhome.cnwebterren.com
 wechat.comwechatpay.cn
 wegame.comwegame.com.cnwegamedeveloper.comwegameplus.comwegobank.cnweibo.cn	weibo.comweibo.com.cnweibocdn.comweibopay.comweicaifu.comweidian.comweilaicaijing.comweilaiyunxiao.comweiphone.netweixinbridge.comweixing.comweiyangx.com
-weiyun.comwelltrend-edu.comwenjuan.comwenmingban.comwenshushu.cnwenshushu.comwenxiaozhan.cnwenxiaozhan.comwenxiaozhan.netwenxin-ge.comwerepository.com.cnwest95582.comweui.iowework-studio.com
+weiyun.comwelltrend-edu.comwenjuan.comwenkeju.comwenmingban.comwenshushu.cnwenshushu.comwenxiaozhan.cnwenxiaozhan.comwenxiaozhan.netwenxin-ge.comwerepository.com.cnwest95582.comweui.iowework-studio.com
 wf.pubwfdata.club
 wggames.cnwhalecloud.com	whccb.comwhlovehome.comwicresoft.com
 win007.comwin7china.comwin8.netwin8china.comwind.com.cnwindows10zj.comwindows7en.comwindowszj.comwinegame.netwinos.mewinwin7.comwinyoungreading.comwishdown.com
@@ -16723,9 +16722,6 @@ p
 kfs.io	kk.stream	kkbox.comkkbox.com.tw	kktix.comkktv.com.twkktv.me
 D
 KKTVkktv.com.twkktv.metheater-kktv.cdn.hinet.net
-
-KNOVEL
-knovel.com
 "
 KODIkodi.tv	kodi.wiki
 K
@@ -17650,8 +17646,6 @@ wiifit.comwiifitu.comwiipartyu.comwiisports.comwiisports
 cnxn--mts47c3w9b1qr.netyoshisnewisland.com
 "
 NISTnist.govtime.gov
-
-NIXOS	nixos.org
 ™Ç$
 NOADS-RU0.nextyourcontent.com000.gaysexe.free.fr
 000free.us000tristanprod.free.fr0099xxy78.weebly.com00author.com00go.com00it.com00sexus.com00webcams.com0101011.com0202.com.tw03e.info03p.info0548dr.pages.dev05agu.doctortrf.com	07634.com0909n9090.weebly.com	09zyy.com0byv9mgbn0.com1-0d097ebf.1996e9cb2cc7a61f0bfd0a1e.workers.dev0n.click0q2.sitey.me
@@ -18612,8 +18606,6 @@ oracle.comoraclecloud.comoraclefoundation.orgoracleimg.com
 origin.com	origin.tv#cloudsync-prod.s3.amazonaws.comorigin-a.akamaihd.netrtm.tnt-ea.comssl-lvlt.cdn.ea.com
 7
 OSCHINA	gitee.comgitee.iooschina.net
-
-OSDNosdn.net
 ¡
 OSUa.ppy.shassets.ppy.shc.ppy.shlazer.ppy.sh	m1.ppy.shnotify.ppy.sh
 osu.ppy.shsentry.ppy.shspectator.ppy.sh
@@ -18829,8 +18821,6 @@ PURIKONEJP"api-priconne-redive.cygames.jpomotenashi.cygames.jpp
 e
 PYTHON	pycon.orgpypa.iopypi.iopypi.org
 python.orgpythonhosted.org
-$
-PYTHON-COMMUNITYpiwheels.org
 $
 QCCqcc.comqichacha.com
 ÃA
@@ -19181,8 +19171,6 @@ redhat.org
 j
 REDTUBElivehdcams.com
 rdtcdn.comredtube.comredtube.com.brredtubepremium.com
-
-REMIREPOremirepo.net
 ,
 RENRENrenren-inc.com
 renren.com
@@ -20239,8 +20227,6 @@ L
 ly.com
 A
 TONGFANGmechrevo.comthtf.com.cntongfangpc.com
-
-TOPCODERtopcoder.com
 #
 TORexit	oniontor
  
@@ -20457,8 +20443,6 @@ k
 VIBERs-bid.rmp.rakuten.com	vbcdn.com	vbcdn.netviber.co	viber.comviber.me
 ©
 VILAVPNvilavpn.comvilavpn.xyzvilavpn1.xyzvilavpn2.xyzvilavpn3.xyzvilavpn4.xyzvilavpn5.xyzvilavpn6.xyzvilavpn7.xyz
-
-VIMvim.org
 Ö
 VIMEOlivestream.com
 vhx.tv
