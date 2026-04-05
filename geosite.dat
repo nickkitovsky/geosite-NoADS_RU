@@ -1052,8 +1052,8 @@ archive.li
 archive.md
 archive.pharchive.today
 archive.vn
-I
-	ARCHLINUXarchlinux.orgarchlinuxarm.orgarchlinuxcn.org
+[
+	ARCHLINUXarchlinux.orgarchlinuxarm.orgarchlinuxcn.orgpkgbuild.com
 R
 ARPHIC
 arphic.comarphic.com.cnarphic.com.twifontcloud.com
@@ -3401,7 +3401,7 @@ o.pki.goog
 cnwww.entrust.cn
 cnwww.microsoft.com
 cn
-—!
+£!
 CATEGORY-CDN-!CNaccdn.com.cn
 cnak1.net
 aka-ai.com
@@ -3452,7 +3452,8 @@ cftest6.cn
 cncloudflareregistrar.comcloudflareresearch.comcloudflareresolve.comcloudflaressl.com!cloudflarestaging.com
 cncloudflarestatus.comcloudflarestorage.com#cloudflarestoragegw.com
 cncloudflarestream.comcloudflaresupport.comcloudflaretest.comcloudflarewarp.comcloudflareworkers.comdelvenetworks.comedgekey.netedgekey88.net
-cnedgesuite.netencryptedsni.comesm.runevery1dns.netfastly-edge.comfastly-terrarium.com
+cnedgesuite.netencryptedsni.comesm.run
+esm.shevery1dns.netfastly-edge.comfastly-terrarium.com
 fastly.com	fastly.io
 fastly.netfastlylabs.comfastlylb.netfoundationdns.comfoundationdns.netfoundationdns.orggcdn.co	gcore.com	gcore.proiamakamai.comiamakamai.netimagedelivery.net	imgix.com	imgix.netisbgpsafeyet.comjanrain.biz
 cnjanrainservices.com
@@ -5100,7 +5101,7 @@ pgafan.netpoint2this.com
 pointto.us privatizehealthinsurance.netquicksytes.comread-books.orgredirectme.netsecuritytactics.comservebeer.comserveblog.netservecounterstrike.comserveexchange.comserveftp.comservegame.comservehalflife.comservehttp.comservehumour.comserveirc.comserveminecraft.netservemp3.comservep2p.comservepics.comservequake.comservesarcasm.comsslip.iostufftoread.com	sytes.nettheworkpc.com
 traefik.me
 ufcfan.orgunusualperson.comviewdns.net	webhop.mewebredirect.orgworkisboring.com	zapto.org
- Y
+²Y
 CATEGORY-DEV
 01.orgaccountkit.com
 acpica.comadaptivecards.ioadventofcode.comalpinelinux.orgamp.devampproject.comampproject.netampproject.organaconda.cloudanaconda.comanaconda.organdroidandroid.comandroidify.com
@@ -5160,7 +5161,7 @@ nodejs.orgnodesource.comnomadproject.ionotepad-plus-plus.org
 oneapi.com	oneapi.io
 opencas.ioopendroneid.orgopengraphprotocol.comopengraphprotocol.orgopenjsf.orgopenresty.orgopensource.guideopenssl.orgopensuse.orgopentranslatorstothings.orgopenvino.aiopenvinotoolkit.orgopenwrt.orgosdn.net
 ospray.net
-ospray.orgpackagecloud.iopackagist.org	packer.io	parse.compcre.orgperl.orgphantomjs.orgphp.netpiwheels.orgplayerjs.ioplaygrounds-cdn.apple.compolymer-project.orgpolymerproject.orgposhtestgallery.compostgresql.orgpub.dev	putty.orgpwabuilder.com	pycon.orgpypa.iopypi.iopypi.orgpyrobot.org
+ospray.orgpackagecloud.iopackagist.org	packer.io	parse.compcre.orgperl.orgphantomjs.orgphp.netpiwheels.orgpkgbuild.complayerjs.ioplaygrounds-cdn.apple.compolymer-project.orgpolymerproject.orgposhtestgallery.compostgresql.orgpub.dev	putty.orgpwabuilder.com	pycon.orgpypa.iopypi.iopypi.orgpyrobot.org
 python.orgpythonhosted.orgqt-project.org	qt.ioquay.ior-project.orgraspberrypi.orgraspbian.org	react.comreactjs.comreactjs.orgreactorms.com.cn
 cnreadthedocs-hosted.comreadthedocs.comreadthedocs.ioreadthedocs.orgrecoiljs.org
 redhat.com
@@ -5481,7 +5482,7 @@ yeshen.com
 %CATEGORY-ENTERPRISE-QUERY-PLATFORM-CNaiqicha.baidu.com
 aiqicha.cnaiqicha.comjindidata.comqcc.comqichacha.comqichamao.com	qixin.comqyyjt.cntianyancha.comx315.com
 xcc.cnxinchacha.com
-—º
+²º
 CATEGORY-ENTERTAINMENT100classicbooks.com
 112263.com2025copy.com20thcenturystudios.com.au20thcenturystudios.com.br20thcenturystudios.jp
 24h.tv
@@ -5804,7 +5805,7 @@ osu.ppy.sh,p16-tiktokcdn-com.akamaized.net
 !cn,roovza.skadsdk.appsflyersdk.com
 !cnscc.ott.hinet.netsentry.ppy.shspectator.ppy.shspotify.com.edgesuite.netspotify.map.fastly.netspotify.map.fastlylb.net"static-hamivideo.cdn.hinet.net(static-login.gog-statics.com
 cnstatic.siege-amazon.com steambroadcast.akamaized.netsteamcdn-a.akamaihd.net*&steamcloudsweden.blob.core.windows.net!steamcommunity-a.akamaihd.net/+steamcommunity-a.akamaihd.net.edgesuite.netsteammobile.akamaized.netsteampipe-kr.akamaized.net#steampipe-partner.akamaized.netsteampipe.akamaized.netsteamstore-a.akamaihd.net#steamusercontent-a.akamaihd.net"steamuserimages-a.akamaihd.netsteamvideo-a.akamaihd.nettmdb-image-prod.b-cdn.nettv.applemusic.com&"tvcastlive-hamivideo.cdn.hinet.net,(ubisoft-orbit-savegames.s3.amazonaws.com,(ubisoft-uplay-savegames.s3.amazonaws.com'#ubisoft.siteintercept.qualtrics.comubistatic1-a.akamaihd.netubistatic10-a.akamaihd.netubistatic11-a.akamaihd.netubistatic12-a.akamaihd.netubistatic13-a.akamaihd.netubistatic14-a.akamaihd.netubistatic15-a.akamaihd.netubistatic16-a.akamaihd.netubistatic17-a.akamaihd.netubistatic18-a.akamaihd.netubistatic19-a.akamaihd.netubistatic2-a.akamaihd.netubistatic20-a.akamaihd.netubistatic21-a.akamaihd.netubistatic22-a.akamaihd.netubistatic23-a.akamaihd.netubistatic24-a.akamaihd.netubistatic3-a.akamaihd.netubistatic4-a.akamaihd.netubistatic5-a.akamaihd.netubistatic6-a.akamaihd.netubistatic7-a.akamaihd.netubistatic8-a.akamaihd.netubistatic9-a.akamaihd.net)uplaypc-s-ubisoft.cdn.ubi.com
-cnuts-api.itunes.apple.com*&videos-rockstargames-com.akamaized.netvod-abematv.akamaized.net3/wb-agora-hydra-file-storage-k1.s3.amazonaws.com#weblive-hamivideo.cdn.hinet.net'www4-static.gog-statics.com
+cnuts-api.itunes.apple.com*&videos-rockstargames-com.akamaized.netvod-abematv.akamaized.net3/wb-agora-hydra-file-storage-k1.s3.amazonaws.com#weblive-hamivideo.cdn.hinet.netws.audioscrobbler.com'www4-static.gog-statics.com
 cn xz.pphimalayanrt.com
 cnyt3.googleusercontent.com62(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$73(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$1-(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$40(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$($^[0-9]+vod-adaptive\.akamaized\.net$."^cdn-akamai-.+\.gog-services\.com$
 cn6*^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -9640,8 +9641,8 @@ U
 COMODO
 comodo.com
 comodo.net
-³
-CONNECTIVITY-CHECKcaptive.apple.com!connectivitycheck.gstatic.comcp.cloudflare.comdetectportal.firefox.commsftconnecttest.commsftncsi.comnetwork-test.debian.orgnetworkcheck.kde.orgconnect.rom.miui.com!connectivity-check.ubuntu.com*&connectivitycheck.platform.hicloud.com/+connectivitycheck.platform.hihonorcloud.comping.archlinux.orgredirect.archlinux.org
+•
+CONNECTIVITY-CHECKcaptive.apple.com!connectivitycheck.gstatic.comcp.cloudflare.comdetectportal.firefox.com"ipv6check-http.steamserver.net!ipv6check-udp.steamserver.netmsftconnecttest.commsftncsi.comnetwork-test.debian.orgnetworkcheck.kde.orgtest.steampowered.comconnect.rom.miui.com!connectivity-check.ubuntu.com*&connectivitycheck.platform.hicloud.com/+connectivitycheck.platform.hihonorcloud.comping.archlinux.orgredirect.archlinux.org
 3
 
 CONTENTFULcontentful.comctfassets.net
@@ -10447,7 +10448,7 @@ garena.comgarena.live	garena.my	garena.ph	garena.sg	ga
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-ù©
+²ª
 GEOLOCATION-!CN
 01.org02weqj32.com
 04647.club0cgdklr5sfwj.com0emm.com0plkijj.vip
@@ -11448,7 +11449,8 @@ erlang.orgero-anime.netero-comic-hunter.netero-kawa.come
 erofus.comerogames.comerogazo-jp.neterogazo-ngo.comerogazopple.comerogazou-pinkline.comerogazoufactory.comeroge-road.comerohentai.neterolabs.clouderolabs.comerolabs.neterolabs.onlineerolabsshare.xyzeromanga-ace.comeromanga-cafe.comeromanga-kong.comeromanga-mainichi.comeromanga-school.comeromangajukujo.comeromazofu.com	erome.comerome.iteropasture.comeropics.org
 eropics.toeroprofile.comerosberry.comeroshiko.neterotelki.orgerotera.blogo.jperoterest.neterothots.coerotic-artsites.comerotic-hentai.comerotic-photos.neteroticart-top100.comeroticbeauties.neteroticbeautyhub.comerotichdworld.comerotictube.meerotikaweb.huerovizor.ru
 eroxia.com
-err.shertk.netes-visiontimes.comesbeatsbydrebuy.comescandinavia-arg.comescape.com.auescapefromtarkov.comescapestudios.co.ukescobarvip.itescort.guideescortamsterdam1.comescortdude.comescortgirls.beescortrankings.ukeset.comeset.eueset.skeset.systemsesetsoftware.comeskimotube.comesm.runesmarthealth.comesmatube.comesopworld.com	esp32.comesp8266.comespadoldettol.com.aresperanzagomez.org
+err.shertk.netes-visiontimes.comesbeatsbydrebuy.comescandinavia-arg.comescape.com.auescapefromtarkov.comescapestudios.co.ukescobarvip.itescort.guideescortamsterdam1.comescortdude.comescortgirls.beescortrankings.ukeset.comeset.eueset.skeset.systemsesetsoftware.comeskimotube.comesm.run
+esm.shesmarthealth.comesmatube.comesopworld.com	esp32.comesp8266.comespadoldettol.com.aresperanzagomez.org
 espn.co.ukespn.comespn.netespncdn.com
 espnqa.com
 esports.ggesposasymaridos.comespressif.comesri.comestudio360.com.coestudiopenthouse.cometbc.com.hketheadphones.comethereum.foundationethereum.orgetherscan.ioetnet.com.cn
@@ -12490,7 +12492,7 @@ pixhost.topixinsight.com.twpixiv-recommend.netpixiv.co.jp
 pixiv.helppixiv.me	pixiv.net	pixiv.orgpixivision.netpixlr-o-matic.compixlromatic.com	pixnet.cc
 pixnet.net
 pixnet.pro	pixnet.tw
-pixplug.inpixtronix.com	pjbyj.toppjful-app.lolpjgirls.compjsekai.sega.jppki-post.chpki-posta.chpki-poste.chplacemyad.com.auplacesdocs.complanetminecraft.complanetsuzy.orgplansondemand.complantsvszombies2.complasticlabs.complastics-cadcam.complatform.dell.com
+pixplug.inpixtronix.com	pjbyj.toppjful-app.lolpjgirls.compjsekai.sega.jppkgbuild.compki-post.chpki-posta.chpki-poste.chplacemyad.com.auplacesdocs.complanetminecraft.complanetsuzy.orgplansondemand.complantsvszombies2.complasticlabs.complastics-cadcam.complatform.dell.com
 cnplatinumlinks.orgplay-bmm.shopplay-bmmer.buzzplay4free.com
 playads.jpplayapex.complayartifact.complaybar.bizplaybattlegrounds.complayboy.complayboy.com.ukplayboyplus.complaybydurex.complaycover.ioplayerjs.ioplayfab.complayfabapi.complayfamily.ruplayforceone.complayhearthstone.complaymation.complaymeow.complaynintendo.complayno1.complayoverwatch.complayparagon.complayporngame.complayporngames.complaypornogames.complaysexgames.xxxplaysexygame.complayshow.ioplayshowtv.complaystationplaystation.complaystation.netplayvalorant.complayvids.complaywarcraft3.complayyoungtube.complayz.jppleasefuck.orgpleasurebabe.compleasuregirl.netpleasuremore.complex.complex.servicesplex.tvplexapp.complos.orgplug-into.com	plug.gameplumperpass.complusone8.complusporn.netpluto.tvplutotv.net	plzpf.com	pm.mepmatehunter.compmem.orgpmem.uspnas.orgpobl-content.compocketbiketrader.compocketcasts.compoe.com
 poecdn.netpogo.compogobeta.compoi.icupoi.moepoi6.net
@@ -13889,7 +13891,7 @@ rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-onc
 cn!weather-map.apple.com
 cn"weather-map2.apple.com
 cn weatherkit.apple.com
-cnwidgets.stripst.comwrds-www.wharton.upenn.edu&wscont1.apps.microsoft.com
+cnwidgets.stripst.comwrds-www.wharton.upenn.eduws.audioscrobbler.com&wscont1.apps.microsoft.com
 cn&wscont2.apps.microsoft.com
 cnwww-csb.dell.com
 cn-!www-google-analytics.l.google.com
@@ -17005,8 +17007,8 @@ okr.com.cnsecurityfeishu.cnsecurityfs.cnstatusfeishu.cns
 LARK-GLOBAL%!frontier-lark-lb-v3.lf.bytelb.netlark-passport-qa-sg.netlark.cnlarkcloud.comlarkcloud.net
 larkfn.comlarkmeetings.cnlarkmeetings.comlarkoffice.comlarkoffice.com.bytedns1.comlarkofficeapp-boe.comlarkofficeapp-pre.comlarkofficeapp.comlarkofficeboe.comlarkofficecdn.comlarkofficeimg.comlarkofficepkg.comlarkofficepre.comlarkrooms.cnlarkrooms.comlarksuite-pre.comlarksuite.comlarksuite.com.ttdns1.comlarksuite.com.ttdns2.comlarksuitecdn.comlarksuiteimg-boe.comlarksuiteimg-pre.comlarksuiteimg.com
 larkvc.comstatuslarkoffice.comthelarkcloud.com
-4
-LASTFMlast.fmlastfm.freetls.fastly.net
+O
+LASTFMlast.fmlastfm.freetls.fastly.netws.audioscrobbler.com
 =
 LASTPASSlastpass.comlastpass.eu
 lputil.com
@@ -23224,11 +23226,11 @@ pplive.compptv.com
 PRIMEVIDEOaiv-cdn.netamazonprimevideo.cn
 cn#amazonprimevideo.com.cn
 cnamazonprimevideos.comamazonvideo.ccamazonvideo.comprime-video.comprimevideo.ccprimevideo.comprimevideo.infoprimevideo.orgprimevideo.tv($prod.service.minerva.devices.a2z.com!d1v5ir2lpwr8os.cloudfront.net!d22qjgkvxw22r6.cloudfront.net!d25xi40x97liuc.cloudfront.net!d27xxe7juh1us6.cloudfront.net dmqdd6hw24ucf.cloudfront.net#images-eu.ssl-images-amazon.com#images-fe.ssl-images-amazon.com#images-na.ssl-images-amazon.commsh.amazon.co.ukstatic.siege-amazon.com
-°
+•
 PRIVATELH1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa10.in-addr.arpa100.100.in-addr.arpa100.51.198.in-addr.arpa101.100.in-addr.arpa102.100.in-addr.arpa103.100.in-addr.arpa104.100.in-addr.arpa105.100.in-addr.arpa106.100.in-addr.arpa107.100.in-addr.arpa108.100.in-addr.arpa109.100.in-addr.arpa110.100.in-addr.arpa111.100.in-addr.arpa112.100.in-addr.arpa113.0.203.in-addr.arpa113.100.in-addr.arpa114.100.in-addr.arpa115.100.in-addr.arpa116.100.in-addr.arpa117.100.in-addr.arpa118.100.in-addr.arpa119.100.in-addr.arpa120.100.in-addr.arpa121.100.in-addr.arpa122.100.in-addr.arpa123.100.in-addr.arpa124.100.in-addr.arpa125.100.in-addr.arpa126.100.in-addr.arpa127.100.in-addr.arpa127.in-addr.arpa16.172.in-addr.arpa168.192.in-addr.arpa17.172.in-addr.arpa18.172.in-addr.arpa19.172.in-addr.arpa2.0.192.in-addr.arpa20.172.in-addr.arpa21.172.in-addr.arpa22.172.in-addr.arpa23.172.in-addr.arpa24.172.in-addr.arpa25.172.in-addr.arpa254.169.in-addr.arpa 255.255.255.255.in-addr.arpa26.172.in-addr.arpa27.172.in-addr.arpa28.172.in-addr.arpa29.172.in-addr.arpa30.172.in-addr.arpa31.172.in-addr.arpa64.100.in-addr.arpa65.100.in-addr.arpa66.100.in-addr.arpa67.100.in-addr.arpa68.100.in-addr.arpa69.100.in-addr.arpa70.100.in-addr.arpa71.100.in-addr.arpa72.100.in-addr.arpa73.100.in-addr.arpa74.100.in-addr.arpa75.100.in-addr.arpa76.100.in-addr.arpa77.100.in-addr.arpa78.100.in-addr.arpa79.100.in-addr.arpa8.b.d.0.1.0.0.2.ip6.arpa8.e.f.ip6.arpa80.100.in-addr.arpa81.100.in-addr.arpa82.100.in-addr.arpa83.100.in-addr.arpa84.100.in-addr.arpa85.100.in-addr.arpa86.100.in-addr.arpa87.100.in-addr.arpa88.100.in-addr.arpa89.100.in-addr.arpa9.e.f.ip6.arpa90.100.in-addr.arpa91.100.in-addr.arpa92.100.in-addr.arpa93.100.in-addr.arpa94.100.in-addr.arpa95.100.in-addr.arpa96.100.in-addr.arpa97.100.in-addr.arpa98.100.in-addr.arpa99.100.in-addr.arpaa.e.f.ip6.arpab.e.f.ip6.arpad.f.ip6.arpaexample
 hiwifi.com	home.arpainternalinvalidlanleike.cc	locallocaldomain	localhostlocalhost.ptlogin2.qq.comlocalhost.sec.qq.com	my.routerpeiluyou.com
 phicomm.meplex.direct
-router.ctctendawifi.comtesttest.steampowered.comtplinkwifi.net
+router.ctctendawifi.comtesttplinkwifi.net
 ts.netzte.homeasusrouter.cominstant.arubanetworks.com
 miwifi.comoasisauth.h3c.comrouter.asus.comrouterlogin.comsetmeup.arubanetworks.com
 tplogin.cnwww.asusrouter.comwww.miwifi.comwww.routerlogin.com%!^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
