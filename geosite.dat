@@ -1565,7 +1565,7 @@ route53.cn
 cn8,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 cn, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 cn
-£
+µ
 AZURE	21vbc.com
 cn21vbluecloud.com
 cn21vbluecloud.net
@@ -1620,7 +1620,7 @@ route53.cn
 cn	azure.com	azure.netazurecomcdn.netazurecomm.netazurecontainer.ioazurecosmos.netazurecosmosdb.comazurecosmosdb.infoazurecosmosdb.netazurecr-test.cn
 cn
 azurecr.cn
-cnazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazurefd.netazurehdinsight.cn
+cnazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazureedge.usazurefd.netazurehdinsight.cn
 cnazureiotcentral.comazureiotsolutions.comazureiotsuite.cn
 cnazureiotsuite.comazuremresolver.cn
 cnazureplanetscale.infoazureplanetscale.netazureprivatedns.cn
@@ -1847,13 +1847,13 @@ binance.ccbinance.charitybinance.cloud
 binance.cobinance.combinance.info
 binance.mebinance.netbinance.org
 binance.usbinance.visionbinanceapi.combinancecnt.combinanceru.netbinancezh.bebinancezh.bizbinancezh.ccbinancezh.cobinancezh.combinancezh.infobinancezh.inkbinancezh.kimbinancezh.linkbinancezh.livebinancezh.mobibinancezh.netbinancezh.probinancezh.shbinancezh.topbmwweb.solutionsbnappweb.blackbnbchain.orgbnbstatic.combntrace.combsappapi.ccbsappapi.combscdnweb.comnftstatic.comsaasexch.ccsaasexch.cosaasexch.comsaasexch.infosaasexch.io($zftksc.cdn-settings.appsflyersdk.com$ zftksc.launches.appsflyersdk.com
-‹
+Ò
 BINGbingbing.combing.com.cn
 cnbing.netbing123.combingads.com
 adsbingagencyawards.combingapis.combingapistatistics.combingparachute.combingsandbox.combingvisualsearch.combingworld.combluehatnights.comcn.bing.com
 cncn.bing.net
 cncn.mm.bing.net
-cncopilot.cloud.microsoftcopilot.comcopilot.microsoft.com
+cncopilot-stg.comcopilot.cloud.microsoftcopilot.comcopilot.microsoft.com
 dictate.msditu.live.com
 cnflipwithsurface.commasalladeloslimites.commicrosoft-give.commicrosoftcloudsummit.commicrosoftdiplomados.commicrosoftlatamholiday.commicrosoftmxfilantropia.com!microsoftpartnersolutions.commsunlimitedcloudsummit.comoffice365love.comoffice365tw.com
 r.bing.com
@@ -3930,7 +3930,7 @@ rs.mail.ru
 CATEGORY-ADS-IRadivery.com
 adivery.irkaprila.com	najva.comsabavision.com
 tapsell.iryektanet.com
-ﬁ
+Ñ
 CATEGORY-AI-!CNagentclientprotocol.com	ai.studioaicode.googleapis.comaida.googleapis.comaisandbox-pa.googleapis.comaistudio.google.comanthropic.comantigravity-unleash.googantigravity.googleanythingllm.comarena.aibard.google.comcerebras.aichat.comchatgpt.comchatgpt.livekit.cloudchatgpt.site	chutes.aicici.com
 !cn
 ciciai.com
@@ -3938,13 +3938,13 @@ ciciai.com
 !cnclau.de	claude.ai
 claude.comclaudemcpclient.comclaudemcpcontent.comclaudeusercontent.com
 clawhub.aiclipdrop.cocodeium.comcodeiumdata.comcoderabbit.ai"coderabbit.gallery.vsassets.io	cohere.ai
-cohere.com	comfy.orgcomfyci.orgcomfyregistry.orgcopilot.cloud.microsoftcopilot.comcopilot.microsoft.comcoze.com
+cohere.com	comfy.orgcomfyci.orgcomfyregistry.orgcopilot-stg.comcopilot.cloud.microsoftcopilot.comcopilot.microsoft.comcoze.com
 !cn
 crewai.com
 crixet.comcursor-cdn.com
 cursor.com	cursor.shcursorapi.comdeepmind.comdeepmind.googledevin.aidiabrowser.comdiabrowser.engineeringdify.aidola.com
 !cnduck.aielevenlabs.comelevenlabs.ioenvato-static.com
-envato.comenvatousercontent.comgateway.ai.cloudflare.comgeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comgithubcopilot.comgrok.com
+envato.comenvatousercontent.comflow.googlegateway.ai.cloudflare.comgeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comgithubcopilot.comgrok.com
 grok.x.comgroq.com
 h2o.ai	hf.cohf.spacehost.livekit.cloudhuggingface.co	jasper.aijules.googlejules.google.comkiro.devlabs.googlelabs.google.comlangchain.comliveperson.netlmstudio.ai	lovart.ailpsnmedia.netmakersuite.google.commanus.immanuscdn.commarscode.com
 !cnmeta.aimidjourney.com
@@ -3963,7 +3963,7 @@ youmind.aiyoumind.comyoumind.siteai.google.dev%!alkalicore
 ads$ copilot-workspace.githubnext.com0,copilotprodattachments.blob.core.windows.net%!daily-cloudcode-pa.googleapis.com notebooklm-pa.googleapis.comnotebooklm.googleapis.com$o33249.ingest.sentry.io
 ads!openai.qualtrics.com
 ads openaiapi-site.azureedge.net&"openaiassets.blob.core.windows.net2.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.netopenaicom.imgix.net1-openaicomproductionae4b.blob.core.windows.net'#ppl-ai-file-upload.s3.amazonaws.compplx-res.cloudinary.com.*production-openaicom-storage.azureedge.net%!servd-anthropic-website.b-cdn.net62webchannel-alkalimakersuite-pa.clients6.google.com=9^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
-„
+â
 CATEGORY-AI-CHAT-!CNagentclientprotocol.com	ai.studioaicode.googleapis.comaida.googleapis.comaisandbox-pa.googleapis.comaistudio.google.comanthropic.comantigravity-unleash.googantigravity.googleanythingllm.comarena.aibard.google.comcerebras.aichat.comchatgpt.comchatgpt.livekit.cloudchatgpt.site	chutes.aicici.com
 !cn
 ciciai.com
@@ -3971,13 +3971,13 @@ ciciai.com
 !cnclau.de	claude.ai
 claude.comclaudemcpclient.comclaudemcpcontent.comclaudeusercontent.com
 clawhub.aiclipdrop.cocodeium.comcodeiumdata.comcoderabbit.ai"coderabbit.gallery.vsassets.io	cohere.ai
-cohere.com	comfy.orgcomfyci.orgcomfyregistry.orgcopilot.cloud.microsoftcopilot.comcopilot.microsoft.comcoze.com
+cohere.com	comfy.orgcomfyci.orgcomfyregistry.orgcopilot-stg.comcopilot.cloud.microsoftcopilot.comcopilot.microsoft.comcoze.com
 !cn
 crewai.com
 crixet.comcursor-cdn.com
 cursor.com	cursor.shcursorapi.comdeepmind.comdeepmind.googledevin.aidiabrowser.comdiabrowser.engineeringdify.aidola.com
 !cnduck.aielevenlabs.comelevenlabs.ioenvato-static.com
-envato.comenvatousercontent.comgateway.ai.cloudflare.comgeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comgithubcopilot.comgrok.com
+envato.comenvatousercontent.comflow.googlegateway.ai.cloudflare.comgeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comgithubcopilot.comgrok.com
 grok.x.comgroq.com
 h2o.ai	hf.cohf.spacehost.livekit.cloudhuggingface.co	jasper.aijules.googlejules.google.comkiro.devlabs.googlelabs.google.comlangchain.comliveperson.netlmstudio.ai	lovart.ailpsnmedia.netmakersuite.google.commanus.immanuscdn.commarscode.com
 !cnmeta.aimidjourney.com
@@ -4450,7 +4450,7 @@ telega.one
 telegra.phtelegram-cdn.orgtelegram.dogtelegram.metelegram.orgtelegram.space
 telesco.petemp-mail.org
 tg.devton.orgtoncenter.com	tx.meui-portal.de	uicdn.comuimserv.netusercontent.dev	vbcdn.com	vbcdn.net	vector.imviber.co	viber.comviber.me	wa.mewatchanimeattheoffice.comwhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.comwhispersystems.org:6discord-attachments-uploads-prd.storage.googleapis.com#hammerandchisel.ssl.zendesk.com
-‰ç
+ùé
 CATEGORY-COMPANIES
 01.org0emm.com1-account.com100beatscheap.com1010.com.hk10xfotolia.com
 123-hp.com123dapp.com123dappipad.com123dartisan.com123dcatch.com123dcircuits.com123dcreature.com123dcreaturenews.com123ddesign.com123ddoodler.com123dmake.com123dnews.com123dpro.com123dpro.net123dsculpt.com123hplaserjet.com!12diasdepresentesdeitunes.com12diasderegalosdeitunes.cl12diasderegalosdeitunes.co!12diasderegalosdeitunes.co.cr!12diasderegalosdeitunes.co.ni!12diasderegalosdeitunes.co.ve12diasderegalosdeitunes.com"12diasderegalosdeitunes.com.co"12diasderegalosdeitunes.com.hn"12diasderegalosdeitunes.com.ni"12diasderegalosdeitunes.com.ve12diasderegalosdeitunes.cr12diasderegalosdeitunes.gt12diasderegalosdeitunes.hn12diasderegalosdeitunes.pe 12joursdecadeauxdeitunes.com1drv.com1drv.ms	1e100.net1monsterbeatsbydreus.com	1thek.com1to1computing.com.au1to1conference.com.au	1ucrs.com2013beatsbydrdreonline.com2013beatsbydrdreshop.com2013beatsbydreshop.com2013beatshdcybermonday.com2013cheapestbeats.com2013newbeatsworld.com2013pascherbeatsbydre.com2014cheapbeatsbydre.com20yearsoffea.com	21vbc.com
@@ -4693,7 +4693,7 @@ awswaf.comaxm-usercontent-apple.comazbukainterneta.ruazchcdna.
 cn	azure.com	azure.netazurecomcdn.netazurecomm.netazurecontainer.ioazurecosmos.netazurecosmosdb.comazurecosmosdb.infoazurecosmosdb.netazurecr-test.cn
 cn
 azurecr.cn
-cnazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazurefd.netazurehdinsight.cn
+cnazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazureedge.usazurefd.netazurehdinsight.cn
 cnazureiotcentral.comazureiotsolutions.comazureiotsuite.cn
 cnazureiotsuite.comazuremresolver.cn
 cnazureplanetscale.infoazureplanetscale.netazureprivatedns.cn
@@ -4778,7 +4778,7 @@ coeteco.jpcollabora.co.ukcollabora.comcollabora.orgcolla
 adscolleee.netcolorme-repeat.jpcolorprotechnology.comcomm-verse.comcomo-hackearfacebook.com
 comodo.com
 comodo.net
-compaq.orgcompass-system.comcompass-systems.comcomponentkit.orgcompresspdf.newconnect-in-canada.com	conoha.jpconscrypt.comconscrypt.orgconstructware.com	consul.iocontainersonaws.comcontechacademy.comcookiechoices.orgcooliphonecasesstore.comcoolmonster.net	coova.com	coova.net	coova.orgcopilot.comcoreduo.comcoreextreme.com	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
+compaq.orgcompass-system.comcompass-systems.comcomponentkit.orgcompresspdf.newconnect-in-canada.com	conoha.jpconscrypt.comconscrypt.orgconstructware.com	consul.iocontainersonaws.comcontechacademy.comcookiechoices.orgcooliphonecasesstore.comcoolmonster.net	coova.com	coova.net	coova.orgcopilot-stg.comcopilot.comcoreduo.comcoreextreme.com	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
 coreml.netcoreoptics.netcoreserver.jpcortanaanalytics.comcortanaskills.comcosmosdb.infocosmosdb.netcotolia.comcotweet.comcounter.yandex.ru
 ads%!courier-push-apple.com.akadns.netcovid19-rx.orgcovid19rx.orgcozydrdrebeats.com
 cpedge.comcqcorea.comcrankplayer.comcrashlytics.comcreatespace.comcreatewhatsnext.comcreativecloud.comcreativepass.comcreativesdk.comcreatwhatsnext.comcreditkarma.comcrit-staging.comcrmdynint-gcc.comcrmdynint.comcrossborderexpansion.comcrossmediapanel.comcrosswalk-project.comcrosswalk-project.netcrowdtangle.comcrr.com	cs.co	cs4hs.comcsifund.orgcuffiesaldi.comcups.onlinecups.orgcurrently.comcurrently.netcusthelp.comcustom-iphonecase.comcustombeatsbydrebuy.comcustombeatsdeals.comcustombeatsforcheap.comcustombeatsny.comcustombeatssbydreus.comcustomdrdrebeats.comcustomercontrolpanel.decustomizedbeatbydre.comcustomizedbeatsbydre.comcustomizedbeatsdre.comcxhub.ru
@@ -5362,7 +5362,7 @@ splunk.comspo-msedge.netsportmail.rusportsfacebook.comsp
 ss-inf.net
 ss2.usssdevrd.comssl-images-amazon.comssttest.net
 st.com
-stadia.devstaffhub.msstarship-ent.com	start.comstatic-cisco.comstatic-storage.netstatic-verizon.comstaticflickr.comstaticmy.comstatuspage.iostcroixmosquito.comstcroixmosquitoproject.comsteelbrick.comstingrayengine.com%stmicroelectronics.com.cn
+stadia.devstaffhub.msstarlink.comstarship-ent.com	start.comstatic-cisco.comstatic-storage.netstatic-verizon.comstaticflickr.comstaticmy.comstatuspage.iostcroixmosquito.comstcroixmosquitoproject.comsteelbrick.comstingrayengine.com%stmicroelectronics.com.cn
 cnstorageclassmemory.iostorageclassmemory.orgstraightouttasomewhere.comstudiobeatsbydrdre.comstudiodell.comstudiolico.comstudioncorp.comstudiopaint.comstudiosucks.comstudywatchbyverily.comstudywatchbyverily.orgstuidok110.comstxmosquito.comstxmosquitoproject.comstxmosquitoproject.netstxmosquitoproject.orgsubmittal-log.comsuccesswithteams.comsulwerphoto.comsummerstage.rusummitceo.rusun.comsundanceignite2016.comsundayready.comsunglassessale2014.comsuperearsenjoy.comsupersrv.desupplybestjerseys.comsupport-uber.comsupportfacebook.comsurface.com!sustainablebuildingstudio.com sustainabledesigncouncil.com sustainabledesigncouncil.netsustainthesound.comsuxiebu.com	suzuri.jp
 svc.mssverigebeatsbydrdre.comsway-cdn.comsway.comsweb.ru	swift.org
 swiftui.cn
@@ -6761,7 +6761,7 @@ yeshen.com
 %CATEGORY-ENTERPRISE-QUERY-PLATFORM-CNaiqicha.baidu.com
 aiqicha.cnaiqicha.comjindidata.comqcc.comqichacha.comqichamao.com	qixin.comqyyjt.cntianyancha.comx315.com
 xcc.cnxinchacha.com
-ÕÁ
+‹Á
 CATEGORY-ENTERTAINMENT100classicbooks.com
 112263.com!12diasdepresentesdeitunes.com12diasderegalosdeitunes.cl12diasderegalosdeitunes.co!12diasderegalosdeitunes.co.cr!12diasderegalosdeitunes.co.ni!12diasderegalosdeitunes.co.ve12diasderegalosdeitunes.com"12diasderegalosdeitunes.com.co"12diasderegalosdeitunes.com.hn"12diasderegalosdeitunes.com.ni"12diasderegalosdeitunes.com.ve12diasderegalosdeitunes.cr12diasderegalosdeitunes.gt12diasderegalosdeitunes.hn12diasderegalosdeitunes.pe 12joursdecadeauxdeitunes.com2025copy.com20thcenturystudios.com.au20thcenturystudios.com.br20thcenturystudios.jp
 24h.tv
@@ -6874,7 +6874,7 @@ lpl.com.cn
 cnmariokart.com.cn
 cnmariokart7.commariokart8.commariosupersluggers.com
 marvel.commarvel10thanniversary.commarveldimensionofheroes.commarvelparty.netmarvelpinball.commarvelsdoubleagent.commarvelspotlightplays.com marvelsuperheroseptember.commarvelsuperwar.commasseffect.commasseffectarchives.commasteroforion.commax.com	maxgo.com	maxis.commedia-imdb.commediaclip.jpmegaphone.fm
-megogo.netmetacritic.commgo-images.commgo.com	mickey.tvmiitomo.commiitomo.com.cn
+megogo.netmetacritic.commgo-images.commgo.com	mhgui.com	mickey.tvmiitomo.commiitomo.com.cn
 cnmiiverse.commikanani.memikuexpo.comminecraft-services.netminecraft.netminecraft.wikiminecraftforge.netminecraftservices.comminecraftshop.commirrorsedge.commirrorsedge.jpmirrorsedge.netmirrorsedge2.commirrorsedge2d.com	mo.comobimon.com.twmodernwarships.commodrinth.commoedigi.commoepedia.net
 mojang.commolesports.commoov.hkmore.tvmotionpictureser.commovenetworks.com
 movetv.commoviesanywhere.commox.moemubi.commubicdn.net	mudvod.tv
@@ -12559,7 +12559,7 @@ genotek.am
 genotek.es
 genotek.eugenotek.health
 genotek.ru
-πõ
+»õ
 GEOLOCATION-!CN
 01.org02weqj32.com
 04647.club0cgdklr5sfwj.com0emm.com0plkijj.vip
@@ -13044,7 +13044,7 @@ aznude.com	aztask.cn
 cn
 azurecr.cn
 cn
-azurecr.ioazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazurefd.netazurehdinsight.cn
+azurecr.ioazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazureedge.usazurefd.netazurehdinsight.cn
 cnazureiotcentral.comazureiotsolutions.comazureiotsuite.cn
 cnazureiotsuite.comazuremresolver.cn
 cnazureplanetscale.infoazureplanetscale.netazureprivatedns.cn
@@ -13415,7 +13415,7 @@ comsoc.org	conair.me	conan.xxxconda.io)config.uca.cloud.uni
 cnconnectcommerce.hkconnectcommerce.infoconnectcommerce.tvconnected-drive.com connectedcommerce.cn
 cnconnectedcommerce.comconnectedcommerce.tvconnectionsacademy.comconnectionseducation.comconnectionslearning.com	conoha.jpconquerwithcharacter.comconscrypt.comconscrypt.orgconsentmanager.netconsentpro.comconstructware.com	consul.iocontactossexoecuador.comcontainersonaws.comcontechacademy.comcontentful.comcontest.comconvrgencegame.comcookiebot.comcookiechoices.orgcookielaw.orgcookiepro.comcookieyes.comcool-comics.com
 cool18.com
-cool3c.comcoolinet.netcooliphonecasesstore.comcoolloud.org.twcoolmonster.netcoolsexnew.comcoomer.party	coomer.st	coomer.su	coova.com	coova.net	coova.orgcopilot.comcopro.pwcopy-manga.com
+cool3c.comcoolinet.netcooliphonecasesstore.comcoolloud.org.twcoolmonster.netcoolsexnew.comcoomer.party	coomer.st	coomer.su	coova.com	coova.net	coova.orgcopilot-stg.comcopilot.comcopro.pwcopy-manga.com
 copy20.comcopy2000.online	coqnu.comcorbinfisher.comcordcloud.orgcoredao.orgcoreduo.comcoreextreme.com	corel.com	corel.netcoreldraw.appcoreldraw.comcorelstore.com
 coreml.netcoreoptics.netcorepublishingsolutions.comcoreserver.jpcoronavirusnow.comcorporatecashpassport.comcortanaanalytics.comcortanaskills.comcortexrpg.comcosfans-tw.comcosmosdb.infocosmosdb.netcosplay-jav.comcosplayeromania.jpcosplayporntube.comcosplayworld.netcostco-static.com
 costco.comcostcobusinessdelivery.comcotolia.comcotweet.comcougarsexmovies.comcounter.yandex.ru
@@ -14352,7 +14352,7 @@ metart.commetartnetwork.commetcams.com	meteum.ai!metrics.d
 adsmetrika.yandex.net
 adsmetrika.yandex.ru
 adsmetro.co.ukmetropolitana.tokyometrotoons.commeuhentai.commewe.commexc.comexc.commexcsensors.commfg-inspector.commfk-bank.rumfk-t-finance.ru	mfmf.clubmgfn.rumgmt-azure-api.cn
-cnmgo-images.commgo.commhcb.rumhcbr.rumhhanman.xyz	mhqwe.xyzmhradio.orgmhshosting.commi.kochudaho.memi.mashiro.site
+cnmgo-images.commgo.commhcb.rumhcbr.ru	mhgui.commhhanman.xyz	mhqwe.xyzmhradio.orgmhshosting.commi.kochudaho.memi.mashiro.site
 mi.nakn.jp
 mi9.com.au
 mi9cdn.commiadidas.commiamifintechfestival.commiaomwu.com
@@ -15122,7 +15122,7 @@ sssuo1.xyzsstatic.netssttest.netssx3.com
 cn!st.dl.pinyuncloud.com
 cnstackage.orgstackapps.comstackauth.comstackexchange.comstackmod.blogstackoverflow.blogstackoverflow.costackoverflow.comstackoverflow.emailstackoverflow.helpstackoverflow.netstackoverflowbusiness.comstackoverflowcareers.comstackoverflowjobs.comstackoverflowsolutions.comstackoverflowteams.comstackpath.comstackpath.devstacksnippets.netstacyvandenbergboobs.com
 stadia.devstaffhub.msstandardchartered.comstandardsuniversity.orgstar-brasil.comstar-conflict.comstar-latam.comstarbucks-stars.comstarbucks.adstarbucks.atstarbucks.bestarbucks.bgstarbucks.castarbucks.chstarbucks.co.idstarbucks.co.jpstarbucks.co.nzstarbucks.co.thstarbucks.co.ukstarbucks.co.zastarbucks.comstarbucks.com.arstarbucks.com.bnstarbucks.com.cn
-cnstarbucks.com.costarbucks.com.cystarbucks.com.grstarbucks.com.hkstarbucks.com.khstarbucks.com.kzstarbucks.com.mxstarbucks.com.mystarbucks.com.pestarbucks.com.sgstarbucks.com.trstarbucks.com.uystarbucks.destarbucks.dkstarbucks.esstarbucks.frstarbucks.hustarbucks.iestarbucks.instarbucks.itstarbucks.nlstarbucks.nostarbucks.phstarbucks.plstarbucks.ptstarbucks.rsstarbucks.rustarbucks.sestarbucks.ttstarbucks.vnstarbucksathome.comstarbucksavie.castarbuckscard.phstarbuckscardb2b.comstarbuckscoffee.czstarbuckscoffeegear.com starbuckscoffeegearstore.comstarbucksforlife.castarbucksforlife.comstarbuckspoq.comstarbucksreserve.comstarbucksrewardsstarland.ca starbucksrewardsstarland.comstarbucksromania.rostarbucksrtd.comstarbucksslovakia.skstarbuckssummergame.castarbuckssummergame.comstarcraft.comstarcraft2.comstarfieldtech.comstarfox.comstargazer-games.comstark-verlag.chstarott.comstarp2p.comstarplus.comstarship-ent.comstarsze.icu	start.comstart.rustartpage.comstartpath.comstartupjournal.comstartupschool.orgstarwars.comstarwarsbattlefront.comstarwarsbattlefront2.comstarwarsfallenorder.com#starwarsgalacticstarcruiser.comstarwarsjedifallenorder.comstarwarskids.comstarwarstheoldrepublic.comstateofthemap.comstateofthemap.orgstatic-cisco.comstatic-nike.comstatic-storage.netstatic-verizon.com
+cnstarbucks.com.costarbucks.com.cystarbucks.com.grstarbucks.com.hkstarbucks.com.khstarbucks.com.kzstarbucks.com.mxstarbucks.com.mystarbucks.com.pestarbucks.com.sgstarbucks.com.trstarbucks.com.uystarbucks.destarbucks.dkstarbucks.esstarbucks.frstarbucks.hustarbucks.iestarbucks.instarbucks.itstarbucks.nlstarbucks.nostarbucks.phstarbucks.plstarbucks.ptstarbucks.rsstarbucks.rustarbucks.sestarbucks.ttstarbucks.vnstarbucksathome.comstarbucksavie.castarbuckscard.phstarbuckscardb2b.comstarbuckscoffee.czstarbuckscoffeegear.com starbuckscoffeegearstore.comstarbucksforlife.castarbucksforlife.comstarbuckspoq.comstarbucksreserve.comstarbucksrewardsstarland.ca starbucksrewardsstarland.comstarbucksromania.rostarbucksrtd.comstarbucksslovakia.skstarbuckssummergame.castarbuckssummergame.comstarcraft.comstarcraft2.comstarfieldtech.comstarfox.comstargazer-games.comstark-verlag.chstarlink.comstarott.comstarp2p.comstarplus.comstarship-ent.comstarsze.icu	start.comstart.rustartpage.comstartpath.comstartupjournal.comstartupschool.orgstarwars.comstarwarsbattlefront.comstarwarsbattlefront2.comstarwarsfallenorder.com#starwarsgalacticstarcruiser.comstarwarsjedifallenorder.comstarwarskids.comstarwarstheoldrepublic.comstateofthemap.comstateofthemap.orgstatic-cisco.comstatic-nike.comstatic-storage.netstatic-verizon.com
 static.funstatic9.net.austaticflickr.comstaticmy.comstatsmakemecry.comstatuspage.io
 staxus.comstc-server.comstcroixmosquito.comstcroixmosquitoproject.comstealthex.iosteam-api.comsteam-chat.comsteam.apac.qtlglb.comsteam.cdn.on.netsteam.cdn.orcon.net.nzsteam.cdn.slingshot.co.nzsteam.cdn.webra.rusteam.eca.qtlglb.comsteam.naeu.qtlglb.comsteam.ru.qtlglb.comsteam.tvsteamchina.com
 cnsteamcommunity.comsteamconnecttest.comsteamcontent.comsteamdb.infosteamdeck.comsteamgames.comsteaminventoryhelper.comsteamofporn.comsteampowered.com&steampowered.com.8686c.com
@@ -16347,8 +16347,7 @@ rss.owo.nzrss.wudifeixue.comrsshub.asailor.orgrsshub.email-onc
 cn	t.mail.ru
 adstac.googleapis.com
 cntarget.vk.com
-adstesla-cdn.thron.cn
-cntesla-cdn.thron.com(tf-feedback.itunes.apple.com
+ads(tf-feedback.itunes.apple.com
 cntime.amazonaws.cn
 cntime.izatcloud.net
 cntime.xtracloud.net
@@ -18586,10 +18585,10 @@ o.pki.goog
 cnE9^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 cnI=^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 cn
-Ÿ
-GOOGLE-DEEPMIND	ai.studioaicode.googleapis.comaida.googleapis.comaisandbox-pa.googleapis.comaistudio.google.comantigravity-unleash.googantigravity.googlebard.google.comdeepmind.comdeepmind.googlegeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comjules.googlejules.google.comlabs.googlelabs.google.commakersuite.google.comnotebooklm.googlenotebooklm.google.comopal.googleopal.google.com&"proactivebackend-pa.googleapis.com#robinfrontend-pa.googleapis.comstitch.withgoogle.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.com!antigravity-pa.googleapis.comantigravity.googleapis.com#cloudaicompanion.googleapis.comcloudcode-pa.googleapis.com%!daily-cloudcode-pa.googleapis.com notebooklm-pa.googleapis.comnotebooklm.googleapis.com62webchannel-alkalimakersuite-pa.clients6.google.com
-◊
-GOOGLE-GEMINI	ai.studioaicode.googleapis.comaida.googleapis.comaisandbox-pa.googleapis.comaistudio.google.comantigravity-unleash.googantigravity.googlebard.google.comdeepmind.comdeepmind.googlegeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comjules.googlejules.google.comlabs.googlelabs.google.commakersuite.google.comnotebooklm.googlenotebooklm.google.comopal.googleopal.google.com&"proactivebackend-pa.googleapis.com#robinfrontend-pa.googleapis.comstitch.withgoogle.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.com!antigravity-pa.googleapis.comantigravity.googleapis.com#cloudaicompanion.googleapis.comcloudcode-pa.googleapis.com%!daily-cloudcode-pa.googleapis.com notebooklm-pa.googleapis.comnotebooklm.googleapis.com62webchannel-alkalimakersuite-pa.clients6.google.com
+Í
+GOOGLE-DEEPMIND	ai.studioaicode.googleapis.comaida.googleapis.comaisandbox-pa.googleapis.comaistudio.google.comantigravity-unleash.googantigravity.googlebard.google.comdeepmind.comdeepmind.googleflow.googlegeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comjules.googlejules.google.comlabs.googlelabs.google.commakersuite.google.comnotebooklm.googlenotebooklm.google.comopal.googleopal.google.com&"proactivebackend-pa.googleapis.com#robinfrontend-pa.googleapis.comstitch.withgoogle.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.com!antigravity-pa.googleapis.comantigravity.googleapis.com#cloudaicompanion.googleapis.comcloudcode-pa.googleapis.com%!daily-cloudcode-pa.googleapis.com notebooklm-pa.googleapis.comnotebooklm.googleapis.com62webchannel-alkalimakersuite-pa.clients6.google.com
+Ë
+GOOGLE-GEMINI	ai.studioaicode.googleapis.comaida.googleapis.comaisandbox-pa.googleapis.comaistudio.google.comantigravity-unleash.googantigravity.googlebard.google.comdeepmind.comdeepmind.googleflow.googlegeller-pa.googleapis.comgemini.googlegemini.google.comgemini.gstatic.comgenerativeai.google%!generativelanguage.googleapis.comjules.googlejules.google.comlabs.googlelabs.google.commakersuite.google.comnotebooklm.googlenotebooklm.google.comopal.googleopal.google.com&"proactivebackend-pa.googleapis.com#robinfrontend-pa.googleapis.comstitch.withgoogle.comai.google.dev%!alkalicore-pa.clients6.google.com+'alkalimakersuite-pa.clients6.google.com!antigravity-pa.googleapis.comantigravity.googleapis.com#cloudaicompanion.googleapis.comcloudcode-pa.googleapis.com%!daily-cloudcode-pa.googleapis.com notebooklm-pa.googleapis.comnotebooklm.googleapis.com62webchannel-alkalimakersuite-pa.clients6.google.com
 â
 GOOGLE-PLAYgoogleplay.complay-fe.googleapis.com$ play-games.googleusercontent.com!play-lh.googleusercontent.complay.google.complay.googleapis.comxn--ngstr-lra8j.com(redirector.c.play.google.com
 cnE9^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
@@ -20097,8 +20096,8 @@ rs.mail.ru
 ads
 ‚
 MAINICHImachigoto.jpmainichi-athletepartners.jpmainichi.jpmainichibooks.commeijinsen.jpmirailab.techmottainai.infonewsgawakaru.comsponichi.co.jpweekly-economist.com
-
-	MANHUAGUImanhuagui.com
+-
+	MANHUAGUImanhuagui.com	mhgui.com
 ˇ
 MANORAMAmalayalamanorama.commanorama.commanoramanews.commanoramaonline.commanoramayearbook.inonmanorama.comradiomango.fm	theman.in
 theweek.invanitaonline.com
@@ -20223,7 +20222,7 @@ e
 metart.commetartnetwork.commetcams.comnaiadsystems.com	nsimg.net
 5
 MIAOMIAOZHEmiaomiaoz.commiaomiaozhe.com
-œä
+ˆä
 	MICROSOFT1drv.com1drv.ms	21vbc.com
 cn21vbluecloud.com
 cn21vbluecloud.net
@@ -20280,7 +20279,7 @@ apisof.netappcenter.msapplicationinsights.ioapplicationinsight
 cn	azure.com	azure.netazurecomcdn.netazurecomm.netazurecontainer.ioazurecosmos.netazurecosmosdb.comazurecosmosdb.infoazurecosmosdb.netazurecr-test.cn
 cn
 azurecr.cn
-cnazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazurefd.netazurehdinsight.cn
+cnazuredatabricks.netazuredevopslaunch.comazuredigitaltwin.comazuredigitaltwins.comazuredigitaltwins.netazuredns-prd.infoazuredns-prd.orgazureedge-test.netazureedge.netazureedge.usazurefd.netazurehdinsight.cn
 cnazureiotcentral.comazureiotsolutions.comazureiotsuite.cn
 cnazureiotsuite.comazuremresolver.cn
 cnazureplanetscale.infoazureplanetscale.netazureprivatedns.cn
@@ -20310,7 +20309,7 @@ clarity.ms
 cncn.bing.net
 cncn.mm.bing.net
 cncodethemicrobit.com!collector.github.com
-adscopilot.comcortanaanalytics.comcortanaskills.comcosmosdb.infocosmosdb.netcrmdynint-gcc.comcrmdynint.comcrossborderexpansion.comdcg.microsoft.com
+adscopilot-stg.comcopilot.comcortanaanalytics.comcortanaskills.comcosmosdb.infocosmosdb.netcrmdynint-gcc.comcrmdynint.comcrossborderexpansion.comdcg.microsoft.com
 cndependabot.comdevopsassessment.netdevopsms.com
 dictate.msditu.live.com
 cn(dl.delivery.mp.microsoft.com
@@ -26071,9 +26070,9 @@ Q
 	SPACEMAILspacemail.com
 1
 	SPACESHIPspacemail.comspaceship.com
-
+*
 SPACEX
-spacex.com
+spacex.comstarlink.com
 B
 	SPANKBANG	sb-cd.comspankbang.comspankbang.party
 ˇ
@@ -26619,13 +26618,12 @@ cpatrk.nettalkingdata.comtalkinggame.comtdsdk.cpatrk.net
 termux.com
 termux.dev
 termux.org
-Æ
+ı
 TESLAsolarcity.comtesla.cn
 cn	tesla.comtesla.com.cn
 cntesla.servicesteslaenergy.servicesteslamotors.cn
 cnteslamotors.comteslamotors.com.cn
-cnteslazta.net	ts.latesla-cdn.thron.cn
-cntesla-cdn.thron.com
+cnteslazta.net	ts.la
 
 TESTtest.example.com
 Á
